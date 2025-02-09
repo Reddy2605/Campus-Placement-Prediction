@@ -2,7 +2,7 @@
 
 <h3>Overview</h3>
 
-This project is a Flask-based web application that predicts whether a student will be placed in a job based on various input features. The prediction is made using a pre-trained machine learning model.
+This project is a Flask-based web application  that predicts whether a student will be placed in a job based on various input features. The prediction is made using a pre-trained machine learning model.
 
 <h3>Features</h3>
 <ol>
