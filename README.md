@@ -9,7 +9,7 @@ This project is a Flask-based web application  that predicts whether a student w
 <li>Accepts user input through a web form</li>
 <li>Uses a trained Random Forest model for prediction</li>
 <li>Provides a probability score for placement chances</li>
-<li>Displays results on a simple web interface</li>
+<li>Displays results on a simple  web interface</li>
 </ol>
 
 <h3>Requirements</h3>
