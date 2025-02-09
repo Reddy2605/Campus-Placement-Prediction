@@ -14,7 +14,7 @@ This project is a Flask-based web application  that predicts whether a student w
 
 <h3>Requirements</h3>
 
-To run this project, install  the required dependencies:
+To run this project, install a required dependencies:
 pip install flask scikit-learn
 
 <h3>Model & Prediction</h3>
